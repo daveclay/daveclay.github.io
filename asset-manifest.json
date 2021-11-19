@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e376c9a2.chunk.css",
+    "main.js": "/static/js/main.fcde4a70.chunk.js",
+    "main.js.map": "/static/js/main.fcde4a70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e206031.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e206031.js.map",
+    "static/js/2.5f8b4d08.chunk.js": "/static/js/2.5f8b4d08.chunk.js",
+    "static/js/2.5f8b4d08.chunk.js.map": "/static/js/2.5f8b4d08.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e376c9a2.chunk.css.map": "/static/css/main.e376c9a2.chunk.css.map",
+    "static/js/2.5f8b4d08.chunk.js.LICENSE.txt": "/static/js/2.5f8b4d08.chunk.js.LICENSE.txt",
+    "static/media/web bg - faithful 2.5d3f0ebd.png": "/static/media/web bg - faithful 2.5d3f0ebd.png",
+    "static/media/web bg - faithful 3.43f303c5.png": "/static/media/web bg - faithful 3.43f303c5.png",
+    "static/media/web bg - faithful 4.603c790e.png": "/static/media/web bg - faithful 4.603c790e.png",
+    "static/media/web bg - faithful 5.cae9fce0.png": "/static/media/web bg - faithful 5.cae9fce0.png",
+    "static/media/web bg - faithful 6.0aabffc0.png": "/static/media/web bg - faithful 6.0aabffc0.png",
+    "static/media/web bg - faithful 7.9363f405.png": "/static/media/web bg - faithful 7.9363f405.png",
+    "static/media/Aftxr.scss": "/static/media/web bg.32111f93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e206031.js",
+    "static/js/2.5f8b4d08.chunk.js",
+    "static/css/main.e376c9a2.chunk.css",
+    "static/js/main.fcde4a70.chunk.js"
+  ]
+}
